@@ -1,0 +1,8 @@
+﻿name: SpawnFlyHC
+main: SpawnFlyHC\SpawnFlyHC
+author: Hancho
+version: 1.0.0
+api: 
+- 3.1.4
+- 3.0.0-ALPHA
+- 2.0.0
